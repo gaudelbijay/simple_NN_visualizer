@@ -5,6 +5,6 @@ Simple neural network visualiser from coursera project:
 `Instruction to run this project`
 - first run the neural_network.ipynb file in this repo
 - after running this file, two extra files: ml_server.py and app.py files will be created
-- first run the ml_server.py file by command
-- run app.py file
+- first run the ml_server.py 
+- run app.py file by command: streamlit run app.py
 
